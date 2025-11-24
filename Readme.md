@@ -8,7 +8,7 @@
 
 A responsive financial dashboard with glassmorphic design and dark/light theme switching.
 
-[Live Demo](#) · [Report Bug](#)
+[Live Demo](https://mehdi-dev-sudo.github.io/Dashboard/) · [Report Bug](https://github.com/Mehdi-dev-sudo/Dashboard/issues)
 
 </div>
 
